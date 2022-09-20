@@ -1,4 +1,4 @@
-# EC330IsJumbled
+# IsJumbled
 C++ function:
 bool isJumbled (char* str1, char* str2)
 The function receives as input two strings, and returns true if they contain the same
